@@ -11,5 +11,5 @@ Edit the *nextflow.config* file to make sure the setup is compatible with the Sl
 
 ## Submit the Nextflow pipeline
 ```
-sbatch 
-
+sbatch sh_vc_dsl2.sh
+```
