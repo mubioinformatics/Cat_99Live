@@ -1,0 +1,2 @@
+LabID,FCID,Lane,Library,SampleID,Platform,R1,R2
+Lyons,A,2,A,felcat.Cornell.CVB.CVB32865,Illumina,/cluster/pixstor/lyonsla-lab/gtc_runs/Lyons_gtc_Cat_fq/toprocess/CVB_32865_R1.fastq.gz,/cluster/pixstor/lyonsla-lab/gtc_runs/Lyons_gtc_Cat_fq/toprocess/CVB_32865_R2.fastq.gz
